@@ -1,6 +1,6 @@
-# Jupyter-Notebook, Data Mining for Cybersecurity applications
+# Data Mining for Cybersecurity applications
 
-Auhtor: AndreaGiuliani-Git
+Author: AndreaGiuliani-Git
 
 Date: 2023-06-07
 
